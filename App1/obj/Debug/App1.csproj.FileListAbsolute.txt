@@ -1,0 +1,9 @@
+H:\Projects\ServiceBusTest\App1\App1\bin\Debug\App1.exe.config
+H:\Projects\ServiceBusTest\App1\App1\bin\Debug\App1.exe
+H:\Projects\ServiceBusTest\App1\App1\bin\Debug\App1.pdb
+H:\Projects\ServiceBusTest\App1\App1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+H:\Projects\ServiceBusTest\App1\App1\bin\Debug\Microsoft.ServiceBus.xml
+H:\Projects\ServiceBusTest\App1\App1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+H:\Projects\ServiceBusTest\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+H:\Projects\ServiceBusTest\App1\App1\obj\Debug\App1.exe
+H:\Projects\ServiceBusTest\App1\App1\obj\Debug\App1.pdb
